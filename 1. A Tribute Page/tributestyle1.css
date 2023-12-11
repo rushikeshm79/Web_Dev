@@ -1,0 +1,85 @@
+/*   */
+
+html {
+  border: 0.4rem solid #b6b6c3;
+}
+
+body {
+  background-color: rgba(211, 217, 219, 0.966);
+}
+/* ?Main CSS */
+
+/* !header */
+#head {
+  /* background: red; */
+  text-align: center;
+  /* text-decoration: underline; */
+}
+#head h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  color: white;
+  text-decoration: 0.2rem dashed underline;
+  /* text-align: center; */
+  text-shadow: 6px 4px rgb(3 3 3);
+}
+#head p {
+  /* display: inline; */
+  /* border: 2px solid red; */
+  font-size: 1rem;
+  font-weight: bold;
+  background: white;
+  display: inline-block;
+  padding: 0.8rem;
+  border-radius: 1.5rem;
+  /* font-weight: ; */
+}
+
+/* !image Goes Here */
+img {
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+/* !content */
+#content {
+  background-color: rgb(248, 246, 246);
+  color: rgb(3, 3, 3);
+  display: inline-block;
+  font-size: 1rem;
+  /* border: 2px solid green; */
+  border-radius: 2rem;
+  margin: 1rem;
+  padding: 2rem;
+  line-height: 2rem;
+  /* width: 8rem;*/
+  /* list-style: ; */
+}
+
+/* !paragraph */
+#paragraph {
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  /* background: white; */
+  padding: 0.8rem;
+  /* border-radius: 1rem; */
+}
+
+.para1 {
+  /* margin: 1rem 26rem; */
+}
+.para2 {
+}
+/* !footer */
+footer {
+  background-color: black;
+  color: rgb(248 246 246);
+  text-align: center;
+  padding: 1rem;
+  text-shadow: 2px 1px #00d2237a;
+}
+
+/* ?Responsive CSS */
